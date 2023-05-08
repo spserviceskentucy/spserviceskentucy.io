@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Concrete",
+    "description": "Solid foundations, exceptional results.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Planning",
+    "description": "Designing your vision, building your future.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Steel",
+    "description": "Strength in every structure.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
