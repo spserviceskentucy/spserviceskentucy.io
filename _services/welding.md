@@ -8,13 +8,6 @@ Welding and metal fabrication: This includes the welding and fabrication of vari
 
 ![Welding Services](/images/projects/welding/welding.jpg)
 
-# Objectives
-
-- Welding and fabrication of various metal components.
-- Creating custom metalwork to meet specific needs and requirements.
-
-## Relevance
-
 Welding and metal fabrication are essential services in many construction and industrial projects. Metal components such as stairs, handrails, fences, gates, and other custom metalwork are critical in ensuring the safety and functionality of many structures. Welding and fabrication processes involve shaping and assembling metal components into the desired form, resulting in strong and durable finished products.
 
 ![Welding Services](/images/projects/welding/3-2.jpg)

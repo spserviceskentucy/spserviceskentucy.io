@@ -8,13 +8,6 @@ This includes overseeing the entire construction process, from the initial desig
 
 ![Project Managment Services](/images/projects/projectmangement.jpg)
 
-# Objectives
-
-- Overseeing the entire construction process, from the initial design and planning stages to the final inspection and closeout.
-- Ensuring that the project is completed on time, within budget, and to the highest standards of quality and safety.
-
-## Relevance
-
 Project management is a critical service in the construction industry, ensuring that projects are completed on time, within budget, and to the highest standards of quality and safety. Effective project management involves overseeing every aspect of the construction process, from the initial design and planning stages to the final inspection and closeout. It requires strong leadership, excellent communication, and the ability to manage resources effectively.
 
 At Structural and Process Services, we offer project management services to ensure that our clients' construction projects are completed on time, within budget, and to the highest standards of quality and safety. Our experienced project managers oversee every aspect of the construction process, from initial design and planning to final inspection and closeout, to ensure that the project is completed efficiently and effectively.

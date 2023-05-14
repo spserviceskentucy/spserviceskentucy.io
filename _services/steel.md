@@ -8,13 +8,6 @@ This includes the manufacture and installation of steel frames, beams, columns, 
 
 ![Steel Services](/images/projects/steel/1-1.jpg)
 
-# Objectives
-
-- Manufacture steel frames, beams, columns, and trusses that form the backbone of construction projects.
-- Install the manufactured steel components in the designated location.
-
-## Relevance
-
 Structural steel fabrication and erection is a critical component of many construction projects. Structural steel components such as frames, beams, columns, and trusses are essential in creating the support structures that form the backbone of many buildings, bridges, and industrial structures. The process involves fabricating steel components to precise specifications, and then erecting them in the designated location.
 
 ![Steel Services](/images/projects/steel/1-2.jpg)
